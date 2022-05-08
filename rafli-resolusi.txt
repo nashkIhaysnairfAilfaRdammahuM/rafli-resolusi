@@ -1,4 +1,6 @@
-Rafli Resolusi
+Resolusi saya untuk tahun 2022
 1. Berkomitmen untuk mencapai apa yang didambakan
 2. Konsisten dalam berusaha untuk mencapai hal tersebut
 3. Berat badan 65kg
+4. Menguasai PHP hingga laravel
+5. Menguasai React, Node.js, Express.js, dan Next.js
